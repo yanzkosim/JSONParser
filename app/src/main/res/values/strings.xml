@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">JSONParser</string>
+    <string name="search">Search</string>
+    <string name="editSearch">search for an anime, e.g Naruto</string>
+</resources>
